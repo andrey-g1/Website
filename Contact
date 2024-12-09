@@ -1,0 +1,32 @@
+" class="active">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="contact-content">
+        <section>
+            <h2>Contact Us</h2>
+            <p>We’d love to hear from you! Fill out the form below, and we’ll get back to you as soon as possible.</p>
+        </section>
+
+        <section class="contact-form-section">
+            <form action="submit_form.php" method="POST" class="contact-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Your Full Name" required>
+                
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" placeholder="Your Phone Number" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Your Email Address" required>
+                
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2024 Ei Säätö Mgmt. All rights reserved.</p>
+    </footer>
+</body>
+</html>
