@@ -1,0 +1,32 @@
+t - Learn more about our mission and vision in the music industry.">
+    <title>About Us - Ei Säätö Mgmt</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <header class="main-header">
+        <h1>Ei Säätö Mgmt</h1>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html" class="active">About Us</a></li>
+                <li><a href="projects.html">Our Projects</a></li>
+                <li><a href="artists.html">Artists</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="about-content">
+        <section>
+            <h2>About Us</h2>
+            <p>Welcome to Ei Säätö Mgmt! We are a forward-thinking music management company dedicated to discovering, nurturing, and promoting exceptional musical talent. Our team collaborates with artists to develop innovative projects and bring their unique visions to life.</p>
+            <p>At Ei Säätö Mgmt, we believe in the power of music to inspire, connect, and transform lives. Our mission is to create opportunities for artists to thrive while delivering extraordinary experiences to audiences worldwide.</p>
+            <p>With a commitment to creativity, integrity, and excellence, we strive to make a meaningful impact in the music industry and beyond.</p>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2024 Ei Säätö Mgmt. All rights reserved.</p>
+    </footer>
+</body>
+</html>
