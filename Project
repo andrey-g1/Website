@@ -1,0 +1,46 @@
+">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="projects-content">
+        <section>
+            <h2>Our Projects</h2>
+            <p>Welcome to our project showcase! Here are some of the amazing music projects we’ve worked on. Watch and experience the creativity and talent we bring to the industry.</p>
+        </section>
+        
+        <section class="video-gallery">
+            <article class="project">
+                <h3>Vic Versa - Run It Back</h3>
+                <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/a_PAjPPQIK4" 
+    title="Vic Versa - Run It Back" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
+            </article>
+        
+            <article class="project">
+                <h3>Ninoz - See Me Shine</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/RVuw3jG44Js" title="Ninoz - See Me Shine"></iframe>
+            </article>
+        
+            <article class="project">
+                <h3>Ninoz - Sticky</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/3u7Z7_EtiR8" title="Ninoz - Sticky"></iframe>
+            </article>
+            
+            <article class="project">
+                <h3>Ninoz - BnB</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/yTuIEVHIg5Y" title="Ninoz - BnB"></iframe>
+            </article>
+        </section>        
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2024 Ei Säätö Mgmt. All rights reserved.</p>
+    </footer>
+</body>
+</html>
