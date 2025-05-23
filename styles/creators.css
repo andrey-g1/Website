@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, #0a0f1c 0%, #060912 100%);
+    color: #ffffff;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.container {
+    max-width: 1600px;
+    padding: 0 60px;
+    margin: 0 auto;
+}
+
+.ultra-wide {
+    max-width: 1800px;
+}
+
+/* Header */
+.hero {
+    padding: 40px 0;
+}
+
+.hero-grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 60px;
+}
+
+.logo-wrapper img {
+    height: 90px;
+}
+
+.top-nav-list {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin: 0;
+    padding: 0;
+}
+
+.top-nav-list a {
+    color: #00eaff;
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.top-nav-list a:hover {
+    text-decoration: underline;
+}
+
+.hero-text {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.platform-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 72px;
+    margin-bottom: 10px;
+}
+
+.tagline {
+    color: #ccc;
+    font-size: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Content */
+.value-prop {
+    text-align: center;
+    margin: 80px 0;
+}
+
+.value-prop h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 36px;
+    color: #00eaff;
+    margin-bottom: 20px;
+}
+
+.value-prop p {
+    font-size: 20px;
+    color: #ccc;
+    margin-bottom: 30px;
+}
+
+.benefits-list {
+    list-style: none;
+    padding: 0;
+    font-size: 18px;
+    color: #ddd;
+    line-height: 2;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+/* CTA */
+.cta-wrapper {
+    text-align: center;
+    margin: 80px 0;
+}
+
+.cta-button {
+    background: #000;
+    color: #fff;
+    font-size: 28px;
+    font-family: 'Bebas Neue', sans-serif;
+    padding: 24px 64px;
+    border-radius: 16px;
+    text-decoration: none;
+    box-shadow: 0 0 16px #00eaffaa, 0 0 32px #00eaff55;
+    border: 2px solid #00eaff33;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+.cta-button:hover {
+    background: #111;
+    transform: scale(1.05);
+}
+
+/* Footer */
+footer {
+    background: #060912;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 15px;
+    color: #888;
+}
+
+.footer-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.footer-nav a {
+    color: #00eaff;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.footer-nav a:hover {
+    text-decoration: underline;
+}
